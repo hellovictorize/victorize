@@ -1,6 +1,6 @@
 [![Victorize GitHub stats](https://github-readme-stats.vercel.app/api?username=hellovictorize&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# 👋 Hi, I’m Victor — Welcome to Victorize  
+# 👋 Hi, I’m Peter — Welcome to Victorize  
 
 🚀 **Victorize** is my space to share projects, ideas, and lessons with one mission:  
 **Build. Finish. Impact.**  
@@ -31,7 +31,7 @@ I’m passionate about turning concepts into complete solutions that actually he
 
 ## 📫 Let’s Connect  
 
-🔗 **LinkedIn:** [Victor Njihia](https://www.linkedin.com/in/peter-njihia-34121a347/)  
+🔗 **LinkedIn:** [Peter Njihia](https://www.linkedin.com/in/peter-njihia-34121a347/)  
 🐦 **Twitter:** (https://x.com/hello_victorize)
 🌐 **Portfolio:** *(coming soon)*  
 
